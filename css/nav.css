@@ -24,7 +24,7 @@
 .nav-item{
     padding: 0.5em 9px;
 }
-.nav-link:hover{
+.nav-item:hover .nav-link{
     color: #00b39b;
 }
 
